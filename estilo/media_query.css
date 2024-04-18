@@ -36,14 +36,25 @@
     }
 
     #imagem {
-        float:left;
+        float:right;
         width: 50%;
         height: 100%;
 
     }
     #formularios {
-        float:right;
+        float:left;
         width:50%;
     }
+}
+
+ h1 {
+    font-size: 2em;
+}
+
+p {
+
+    font-size: 0.8em;
+
+
 }
 
